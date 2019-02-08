@@ -8,7 +8,7 @@ python cifar10_train.py
 
 Test notes:
 
-2 x AMD Opteron 6168  -- ~440 examples/sec
-i7–7500U  -- 115 examples/sec
-GeForce 940MX -- ~ 1190 examples/sec
-GeForce 1070 --  6000~7000 examples/sec, 
+1. 2 x AMD Opteron 6168 -> ~440 examples/sec
+2. i7–7500U -> 115 examples/sec
+3. GeForce 940MX -> 1190 examples/sec
+4. GeForce 1070 -> 6000~7000 examples/sec, 
