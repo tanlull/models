@@ -3,11 +3,11 @@ Test GPU / CPU Speed
 https://medium.com/@andriylazorenko/tensorflow-performance-test-cpu-vs-gpu-79fcd39170c
 
 
-git clone https://github.com/tensorflow/models.git
+> git clone https://github.com/tensorflow/models.git
 
-cd models/tutorials/image/cifar10
+> cd models/tutorials/image/cifar10
 
-python cifar10_train.py
+> python cifar10_train.py
 
 Test notes:
 
